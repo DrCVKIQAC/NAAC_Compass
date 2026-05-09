@@ -37,6 +37,9 @@ It provides a structured, visual, and interactive approach to understanding NAAC
 5. Save progress automatically (browser-based)
 
 ---
+**Repository Note:** 
+
+Developed and maintained by Dr. C. V. Krishnaveni for academic and IQAC automation purposes. This repository may be migrated to the author’s personal GitHub account for continuity and long-term maintenance.
 
 ## 🌍 Live Demo
 
